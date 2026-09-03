@@ -1,0 +1,39 @@
+Python is a cross platform programming language
+
+it means it runs on all major operating systems
+
+
+In linux 
+
+Linux systems are designed for programming purpose so python is already installed in it
+
+
+then the other thing is 
+
+how to check the version of python installed on your systems
+
+you have to follow these steps 
+
+you first have to open terminal
+and then type python and press enter
+
+you will be able to see something like
+
+$ python
+Python 2.7.6 (default, Mar 22 2014, 22:59:38) 
+[GCC 4.8.2] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+
+
+
+Then we are going to learn to install a text editor in you system
+
+in linux terminal go and write sudo apt-get install geany
+
+If this doesn’t work, see the instructions at http://geany.org/Download/
+ThirdPartyPackages/
+
+
+Now let's understand how to run the hello world program on your system
+
